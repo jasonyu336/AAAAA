@@ -3,7 +3,10 @@
 
 https://courses.cs.duke.edu/spring11/cps296.3/compression4.pdf     
 https://coral.ise.lehigh.edu/sey212/2014/12/19/utilizing-python-packages-on-system-without-admin-privileges/     
-https://web.stanford.edu/~jurafsky/slp3/    
+https://web.stanford.edu/~jurafsky/slp3/      
+
+https://material.io/     
+https://fonts.google.com/     
 
 
 BST:       
