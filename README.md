@@ -18,3 +18,9 @@ Cycle detection:
 When perform DFS, add a "tree-like" stack and push before iterating children and pop after iteration. 
 
 Locating Cycles:   
+
+           
+#### Goal(or is it even possible?)  
+
+We want to reduce overheads for BST ops, so is it possible to build such a BST, or at least 'sub-optimal' BST, 
+as a complete tree structure?
