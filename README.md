@@ -8,6 +8,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 https://www.materialpalette.com/colors    
 https://material.io/     
 https://fonts.google.com/     
+https://d3js.org/     
 
 
 BST:       
