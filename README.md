@@ -1,18 +1,26 @@
 # AAAAA
 
-
-https://courses.cs.duke.edu/spring11/cps296.3/compression4.pdf     
-https://coral.ise.lehigh.edu/sey212/2014/12/19/utilizing-python-packages-on-system-without-admin-privileges/     
-https://web.stanford.edu/~jurafsky/slp3/      
-
+### Color choices
 https://www.materialpalette.com/colors    
 https://material.io/     
+https://www.w3schools.com/cssref/css_colors.asp    
+https://www.htmlcsscolor.com/     
+
+
+### Drawings  
 https://fonts.google.com/     
 https://d3js.org/      
 https://dmitrybaranovskiy.github.io/raphael/     
 
 
 Important:   ******** Never use Canvas element whenever possible! Canvas is raster and will compromise image quality on a higher monitor. ********      
+
+
+### Dull work
+https://courses.cs.duke.edu/spring11/cps296.3/compression4.pdf     
+https://coral.ise.lehigh.edu/sey212/2014/12/19/utilizing-python-packages-on-system-without-admin-privileges/     
+https://web.stanford.edu/~jurafsky/slp3/      
+ 
 
 
 BST:       
