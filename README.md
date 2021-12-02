@@ -8,7 +8,11 @@ https://web.stanford.edu/~jurafsky/slp3/
 https://www.materialpalette.com/colors    
 https://material.io/     
 https://fonts.google.com/     
-https://d3js.org/     
+https://d3js.org/      
+https://dmitrybaranovskiy.github.io/raphael/     
+
+
+Important:   ******** Never use Canvas element whenever possible! Canvas is raster and will compromise image quality on a higher monitor. ********      
 
 
 BST:       
